@@ -1,0 +1,13 @@
+﻿  test_hmm.cpp
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(62): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(76): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(85): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(89): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(103): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(133): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(194): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(203): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(212): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\test\test_hmm.cpp(214): warning C4018: '<': signed/unsigned 不相符
+  test.vcxproj -> D:\Adler_au\Master\Digital Speech Processing\hw1\Debug\test.exe
+  test.vcxproj -> D:\Adler_au\Master\Digital Speech Processing\hw1\Debug\test.pdb (Partial PDB)

@@ -1,0 +1,60 @@
+/media/leavador/DATA/DSP_hw3/7/studir/r07922156
+/media/leavador/DATA/DSP_hw3/7/studir/r07922156/dsp_hw3_r07922156
+Judging r07922156
+ 
+Current Score: 15
+ 
+/media/leavador/DATA/DSP_hw3/7/studir/r07922156/dsp_hw3_r07922156
+make clean...
+rm -f mydisambig.o mydisambig mapping
+Checking compilation of mydisambig and mapping...
+g++ -O3 -I/opt/srilm-1.5.10/include -w --std=c++11 -c mydisambig.cpp
+g++  -o mydisambig mydisambig.o /opt/srilm-1.5.10/lib/i686-m64/liboolm.a /opt/srilm-1.5.10/lib/i686-m64/libdstruct.a /opt/srilm-1.5.10/lib/i686-m64/libmisc.a
+g++ -O3 -I/opt/srilm-1.5.10/include -w --std=c++11    mapping.cpp   -o mapping
+Compilation success.
+Current Score: 25
+make map
+Mapping!
+Map generated successfully.
+Current Score: 30
+
+Checking correction rate of map
+Incorrect map.
+ 
+Current Score: 30
+ 
+Checking Disambig...
+ 
+Current Score: 60.0
+ 
+Checking execution of mydisambig...
+Running 1.txt
+Running 2.txt
+Running 3.txt
+Running 4.txt
+Running 5.txt
+Running 6.txt
+Running 7.txt
+Running 8.txt
+Running 9.txt
+Running 10.txt
+Makefile:27: recipe for target 'run' failed
+Execution failure
+ 
+Current Score: 60.0
+ 
+Checking mydisambig...
+Failure on comparing result2: 1.txt
+Failure on comparing result2: 2.txt
+Failure on comparing result2: 3.txt
+Failure on comparing result2: 4.txt
+Failure on comparing result2: 5.txt
+Failure on comparing result2: 6.txt
+Failure on comparing result2: 7.txt
+Failure on comparing result2: 8.txt
+Failure on comparing result2: 9.txt
+Failure on comparing result2: 10.txt
+Current Score: 60.0
+ 
+Current Score: 60
+ 

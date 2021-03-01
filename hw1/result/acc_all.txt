@@ -1,0 +1,24 @@
+100acc_count : 0.81
+200acc_count : 0.8528
+300acc_count : 0.8488
+400acc_count : 0.854
+500acc_count : 0.856
+600acc_count : 0.8624
+700acc_count : 0.8656
+750acc_count : 0.8676
+800acc_count : 0.8688
+850acc_count : 0.8692
+900acc_count : 0.8704
+950acc_count : 0.87
+1000acc_count : 0.8696
+
+
+test_hmm.cpp:21:22: 警告：ISO C++ forbids converting a string constant to 「char*」 [-Wwrite-strings]
+   char* model_name = "modellist.txt";
+                      ^~~~~~~~~~~~~~~
+test_hmm.cpp:25:16: 警告：ISO C++ forbids converting a string constant to 「char*」 [-Wwrite-strings]
+   model_name = "testing_data1.txt";
+                ^~~~~~~~~~~~~~~~~~~
+test_hmm.cpp:29:16: 警告：ISO C++ forbids converting a string constant to 「char*」 [-Wwrite-strings]
+   model_name = "result1.txt";
+                ^~~~~~~~~~~~~

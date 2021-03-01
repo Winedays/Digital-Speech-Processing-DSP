@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  train.cpp
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(96): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(105): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(120): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(133): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(137): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(155): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(161): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(173): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(175): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(190): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(196): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(213): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(222): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(228): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(236): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(238): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(244): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(248): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(250): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(258): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(261): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(305): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(315): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(329): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(338): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(340): warning C4018: '<': signed/unsigned 不相符
+d:\adler_au\master\digital speech processing\hw1\hw1\train.cpp(350): warning C4018: '<': signed/unsigned 不相符
+  hw1.vcxproj -> D:\Adler_au\Master\Digital Speech Processing\hw1\Debug\train.exe
+  hw1.vcxproj -> D:\Adler_au\Master\Digital Speech Processing\hw1\Debug\train.pdb (Partial PDB)

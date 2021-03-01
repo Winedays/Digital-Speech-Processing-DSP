@@ -1,0 +1,3 @@
+No word with wid = -1
+where Vocab_None is -1
+Log Prob(±wªÌ|¬r-Å}) = -0.176091
